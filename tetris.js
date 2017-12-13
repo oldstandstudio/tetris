@@ -23,4 +23,4 @@ drawMatrix = matrix => {
 	});
 }
 
-drawMatrix(matrix);
+drawMatrix(matrix)
