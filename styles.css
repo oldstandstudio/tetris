@@ -1,0 +1,13 @@
+body {
+    background-color: antiquewhite;
+    margin: 5em auto;
+    min-height: 100vh;
+    text-align: center;
+}
+
+h1 {
+    font-family: fantasy;
+    font-weight: bold;
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+}
